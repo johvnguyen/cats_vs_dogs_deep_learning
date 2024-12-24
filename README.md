@@ -1,0 +1,4 @@
+# Cats vs Dogs Deep Learning Project
+The purpose of this project is to refresh my knowledge on deep learning. In particular, I will be using Pytorch to train and evaluate some neural networks on how well they classify cats and dogs from the [Kaggle Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats) dataset. 
+---
+Due to changing jobs and moving, I stopped working on this project. Before I stopped, I was working on a write-up and beginning to test my models on the test set. Unfortunately, my current interests lie elsewhere. Nevertheless, this project served as a valuable refresher on how Pytorch works. Here is a [link](www.example.com) to my write-up.
